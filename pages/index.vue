@@ -3,7 +3,7 @@
     <div>
       <Logo />
       <h1 class="title">
-        vercel-sample
+        Hello Vercel Preview
       </h1>
       <div class="links">
         <a
